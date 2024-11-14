@@ -15,4 +15,5 @@
                                     Caso queira programar um jogo como o nosso ou inicia-lo é necessario abrir um terminal e escrever 
                                     pip install pygame
                                     
-                                            
+                                    Esse repository conterá tambem a programação do jogo antigo na qual estavamos programando porém o jogo que é o principal será denomidado NinaDemo
+                                    
